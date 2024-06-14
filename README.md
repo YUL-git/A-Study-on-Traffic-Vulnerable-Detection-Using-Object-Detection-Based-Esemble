@@ -16,7 +16,6 @@ Despite ongoing attempts to address pedestrian accidents at crosswalks, they con
 
 ## Paper
 
-soon....
 
 ## Project Work Flow
 
